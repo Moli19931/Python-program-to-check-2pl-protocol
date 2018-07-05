@@ -1,0 +1,3 @@
+t1:xl(a),w(a),xl(c),w(c),xl(b),w(b),ul(a),ul(b),ul(c)
+t2:xl(b),r(b),w(b),xl(a),r(a),w(a),ul(b),ul(a)
+t3:xl(b),w(b),r(b),ul(b)
